@@ -2,4 +2,4 @@
 - 🖋️ bachelor of engineering from Kangwon University with a degree in computer science & engineering
 - 👀 I’m interested in data-engineering / backend web development
 - 🌱 I’m currently learning frontend web development
-- 📫 How to reach me shinhyung99@gmail.com
+- 📫 How to reach me shinhyeong.dev@gmail.com
