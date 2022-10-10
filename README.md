@@ -1,7 +1,6 @@
 ### @ShinHyeong..
 - 🖋️ bachelor of engineering from Kangwon University with a degree in computer science & engineering
 - 👀 I’m interested in data-engineering / backend web development
-- 🌱 I’m currently learning frontend web development
 - 📫 How to reach me shinhyeong.dev@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinHyeong)](https://github.com/ShinHyeong/github-readme-stats)
