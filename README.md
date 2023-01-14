@@ -1,7 +1,7 @@
 > # ShinHyeong Park
 #### Introduce
 - 🖋️ bachelor of engineering from Kangwon National University with a degree in computer science & engineering
-- 👀 I’m interested in Information Retrieval(data-engineering / backend web development)
+- 👀 I’m interested in backend web development
 - 📫 How to reach me shinhyeong.dev@gmail.com
 
 #### Certification
