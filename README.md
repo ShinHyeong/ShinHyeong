@@ -8,7 +8,7 @@
 - 📊 Advanced Data Analytics Semi-Professional(ADsP) [KOREA Data Agency] (21.09.24)
 
 #### Awards and Honors
-- 🥉 Naver PER BootCamp Personal Information Security Idea Contest [] (19.07.11)
+- 🥉 Naver PER BootCamp Personal Information Security Idea Contest - 3rd place [Naver] (19.07.11)
 
 ## ⌨️ Skills
 #### Language / Platforms
