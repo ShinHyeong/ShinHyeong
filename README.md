@@ -1,14 +1,14 @@
 > # ShinHyeong Park
 #### Introduce
-- 🖋️ computer science & engineering student at Kangwon National University.
-- 👀 I’m interested in backend web development
-- 📫 How to reach me shinhyeong.dev@gmail.com
+- 🖋️ BS, Kangwon National University, Computer Science major (2018.03 - 2025.08)
+- 👀 interested in Backend Web Development
+- 📫 How to reach me : shinhyeong.dev@gmail.com
 
 #### Certification
-- 📊 Advanced Data Analytics Semi-Professional(ADsP) [KOREA Data Agency] (21.09.24)
+- 📊 Advanced Data Analytics Semi-Professional(ADsP) [KOREA Data Agency] (2021.09.24)
 
 #### Awards and Honors
-- 🥉 Naver PER BootCamp Personal Information Security Idea Contest - 3rd place [Naver] (19.07.11)
+- 🥉 Naver PER BootCamp Personal Information Security Idea Contest - 3rd place [Naver] (2019.07.11)
 
 ## ⌨️ Skills
 #### Language / Platforms
