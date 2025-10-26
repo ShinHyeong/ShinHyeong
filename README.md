@@ -3,7 +3,7 @@
 - 🖋️ BS, Kangwon National University, Computer Science major (2018.03 - 2025.08)
 - 👀 interested in Backend Web Development
 - 📫 How to reach me : shinhyeong.dev@gmail.com
-- 🌟 I record and share my study notes for backend technologies, including Java, Spring Boot, and RDBMS/NoSQL and problem-solving processes in my projects. [Visit my tech blog](https://shinhyeong.github.io/)
+- 🌟 I record and share my study notes for backend technologies, including Java, Spring Boot, and CS and problem-solving processes in my projects. [Visit my tech blog](https://shinhyeong.github.io/)
 
 ## Certification
 - 📊 Advanced Data Analytics Semi-Professional(ADsP) [KOREA Data Agency] (2021.09.24)
