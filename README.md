@@ -14,3 +14,5 @@
 ## Skills
 ### Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinHyeong)](https://github.com/ShinHyeong/github-readme-stats)
+
+<img width="150" height="150" alt="aws-knowledge-cloud-essentials-training-badge" src="https://github.com/user-attachments/assets/867be052-51ca-4ee4-a972-a85deeea7e6e" />
