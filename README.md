@@ -10,7 +10,8 @@
 
 ## Awards and Honors
 - 🥉 Naver PER BootCamp Personal Information Security Idea Contest - 3rd place [Naver] (2019.07.11)
-
+- 🥉 2025 Gangneung-Wonju National University X Kangwon National University AWS Hackathon - 3rd place [GWNU/KNU/AWS/NxtCloud] (2025.11.23)
+ 
 ## Skills
 ### Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinHyeong)](https://github.com/ShinHyeong/github-readme-stats)
