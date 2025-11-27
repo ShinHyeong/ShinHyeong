@@ -10,7 +10,7 @@
 
 ## Awards and Honors
 - 🥉 Naver PER BootCamp Personal Information Security Idea Contest - 3rd place [Naver] (2019.07.11)
-- 🥉 2025 Gangneung-Wonju National University X Kangwon National University AWS Hackathon - 3rd place [GWNU/KNU/AWS/NxtCloud] (2025.11.23)
+- 🥉 2025 Gangneung-Wonju National University X Kangwon National University AWS Hackathon - 3rd place [AWS] (2025.11.23)
  
 ## Skills & Badges
 
