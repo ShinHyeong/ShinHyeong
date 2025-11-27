@@ -1,18 +1,17 @@
 > # ShinHyeong Park
 ## About Me
-- 🖋️ BS, Kangwon National University, Computer Science major (2018.03 - 2025.08)
-- 👀 interested in Backend Web Development
+- 🎓 BS, Kangwon National University, Computer Science major (2018.03 - 2025.08)
+- 👀 interested in **Backend Web Development**
 - 📫 How to reach me : shinhyeong.dev@gmail.com
-- 🌟 I record and share my study notes for backend technologies, including Java, Spring Boot, and CS and problem-solving processes in my projects. [Visit my tech blog](https://shinhyeong.github.io/)
+- 📝 I record and share my study notes for backend technologies, including Java, Spring Boot, and CS and problem-solving processes in my projects. [Visit my tech blog ↗](https://shinhyeong.github.io/)
 
 ## Certification
 - 📊 Advanced Data Analytics Semi-Professional(ADsP) [KOREA Data Agency] (2021.09.24)
 
 ## Awards and Honors
 - 🥉 Naver PER BootCamp Personal Information Security Idea Contest - 3rd place [Naver] (2019.07.11)
-- 🥉 2025 Gangneung-Wonju National University X Kangwon National University AWS Hackathon - 3rd place [AWS] (2025.11.23)
+- 🥉 2025 AWS Hackathon (GWNU X KNU) - 3rd place [AWS] (2025.11.23)
  
-## Skills & Badges
+## Skills
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinHyeong&langs_count=8&layout=compact&theme=buefy&hide_border=true) | <img width="150" height="150" alt="aws-knowledge-cloud-essentials-training-badge" src="https://github.com/user-attachments/assets/867be052-51ca-4ee4-a972-a85deeea7e6e" /> |
-| ------------- | ------------- |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinHyeong&langs_count=8&layout=compact&theme=buefy&hide_border=true)
