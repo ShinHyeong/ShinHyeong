@@ -12,8 +12,7 @@
 - 🥉 Naver PER BootCamp Personal Information Security Idea Contest - 3rd place [Naver] (2019.07.11)
 - 🥉 2025 Gangneung-Wonju National University X Kangwon National University AWS Hackathon - 3rd place [GWNU/KNU/AWS/NxtCloud] (2025.11.23)
  
-## Skills
-### Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinHyeong)](https://github.com/ShinHyeong/github-readme-stats)
+## Skills & Badges
 
-<img width="150" height="150" alt="aws-knowledge-cloud-essentials-training-badge" src="https://github.com/user-attachments/assets/867be052-51ca-4ee4-a972-a85deeea7e6e" />
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinHyeong&langs_count=8&layout=compact&theme=buefy&hide_border=true) | <img width="150" height="150" alt="aws-knowledge-cloud-essentials-training-badge" src="https://github.com/user-attachments/assets/867be052-51ca-4ee4-a972-a85deeea7e6e" /> |
+| ------------- | ------------- |
