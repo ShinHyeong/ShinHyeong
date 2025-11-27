@@ -11,7 +11,9 @@
 ## Awards and Honors
 - 🥉 Naver PER BootCamp Personal Information Security Idea Contest - 3rd place [Naver] (2019.07.11)
 - 🥉 2025 AWS Hackathon (GWNU X KNU) - 3rd place [AWS] (2025.11.23)
- 
+  - 🧪 [MVP Version Repo ↗](https://github.com/ShinHyeong/FactCheckAi) (Initial Prototype)
+  - 🚀 [Final Version Repo ↗](https://github.com/saa-hackathon-2025/factcheck) (Final Submission)
+
 ## Skills
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinHyeong&langs_count=8&layout=compact&theme=buefy&hide_border=true)
