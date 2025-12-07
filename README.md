@@ -6,10 +6,15 @@
 - 📝 I record and share my study notes for backend technologies, including Java, Spring Boot, and CS and problem-solving processes in my projects. [Visit my tech blog ↗](https://shinhyeong.github.io/)
 
 ## Latest Blog Posts
-<a href="https://shinhyeong.github.io/">
-  <img src="https://github.com/ShinHyeong/ShinHyeong/blob/main/blog-post-widget.svg" alt="Latest Blog Posts">
-</a>
-
+<table>
+  <tr>
+    <th width="20%">Date</th>
+    <th width="80%">Recent Posts</th>
+  </tr>
+  <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  </table>
+  
 ## Certification
 - 📊 Advanced Data Analytics Semi-Professional(ADsP) [KOREA Data Agency] (2021.09.24)
 
