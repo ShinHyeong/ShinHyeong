@@ -5,6 +5,7 @@
 - 📫 How to reach me : shinhyeong.dev@gmail.com
 - 📝 I record and share my study notes for backend technologies, including Java, Spring Boot, and CS and problem-solving processes in my projects. [Visit my tech blog ↗](https://shinhyeong.github.io/)
 
+## Latest Blog Posts
 ## Certification
 - 📊 Advanced Data Analytics Semi-Professional(ADsP) [KOREA Data Agency] (2021.09.24)
 
