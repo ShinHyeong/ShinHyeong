@@ -15,5 +15,5 @@ jobs:
           feed_list: "https://shinhyeong.github.io/feed.xml"
           max_post_count: 5
           # 위젯 느낌을 내기 위해 표(Table) 행 형식으로 템플릿 지정
-          template: "<tr><td>$date</td><td><a href='$url'>📝 [$title]($url)</a></td></tr>"
+          template: "<tr><td>$date</td><td><a href='$url'>📝 $title</a></td></tr>"
           date_format: "yyyy.mm.dd"
