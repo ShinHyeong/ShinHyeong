@@ -7,7 +7,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ - 📝 [Chapter1. Classic Architecture](https://shinhyeong.github.io/aws-saa/aws-saa-classic-architecture/) (2025.12.02)
+ - 📝 [2025 AWS 해커톤 &lpar;GWNU X KNU&rpar; 회고](https://shinhyeong.github.io/retrospective/2025-aws-hackaton-retrospective/) (2025.11.29)
+ - 📝 [Static 메소드의 장단점](https://shinhyeong.github.io/java/static-methods-advantages-and-disadvantages/) (2025.11.25)
+ - 📝 [[Java] Static 변수를 남용하면 안되는 이유 &lpar;단점&rpar;](https://shinhyeong.github.io/java/the-dangers-of-overusing-static-variables/) (2025.11.25)
+ - 📝 [Java의 main 메소드는 왜 static 메소드일까?](https://shinhyeong.github.io/java/why-main-method-is-static/) (2025.11.16)<!-- BLOG-POST-LIST:END -->
 
 ## Certification
 - 📊 Advanced Data Analytics Semi-Professional(ADsP) [KOREA Data Agency] (2021.09.24)
