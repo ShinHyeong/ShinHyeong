@@ -1,4 +1,4 @@
-> # ShinHyeong Park
+# ShinHyeong Park
 ## About Me
 - 🎓 BS, Kangwon National University, Computer Science major (2018.03 - 2025.08)
 - 👀 interested in **Backend Web Development**
@@ -6,6 +6,9 @@
 - 📝 I record and share my study notes for backend technologies, including Java, Spring Boot, and CS and problem-solving processes in my projects. [Visit my tech blog ↗](https://shinhyeong.github.io/)
 
 ## Latest Blog Posts
+``
+``
+
 ## Certification
 - 📊 Advanced Data Analytics Semi-Professional(ADsP) [KOREA Data Agency] (2021.09.24)
 
