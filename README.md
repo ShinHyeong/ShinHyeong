@@ -7,7 +7,9 @@
 
 ## Latest Blog Posts
 <table width="100%">
-  </table>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</table>
 
 ## Certification
 - 📊 Advanced Data Analytics Semi-Professional(ADsP) [KOREA Data Agency] (2021.09.24)
