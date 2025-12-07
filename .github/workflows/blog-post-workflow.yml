@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
-  schedule: # 매시간마다 자동으로 실행 (원하는 시간으로 cron 변경 가능)
+  schedule:
     - cron: '0 * * * *'
-  workflow_dispatch: # 수동으로 실행 가능하도록 설정
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -13,6 +13,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://shinhyeong.github.io/feed.xml"
-          max_post_count: 5 # 보여줄 게시글 개수 (기본값: 5)
-          template: "$newline - 📝 [$title]($url) ($date)"
+          max_post_count: 5
+          # 위젯 느낌을 내기 위해 표(Table) 행 형식으로 템플릿 지정
+          template: "<tr><td><a href='$url'><b>$title</b></a><br/>$date</td></tr>"
           date_format: "yyyy.mm.dd"
