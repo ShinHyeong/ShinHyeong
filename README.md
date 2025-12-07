@@ -8,9 +8,8 @@
 ### Latest Blog Posts
 <table>
   <tr>
-    <th width="15%">Date</th>
-    <th width="30%">Title</th>
-    <th width="55%">Excerpt</th>
+    <th width="20%">Date</th>
+    <th width="80%">Recent Posts</th>
   </tr>
   <!-- BLOG-POST-LIST:START --><tr><td>2025.12.02</td><td><a href='https://shinhyeong.github.io/aws-saa/aws-saa-classic-architecture/'>📝 Chapter1. Classic Architecture</a></td></tr><tr><td>2025.11.29</td><td><a href='https://shinhyeong.github.io/retrospective/2025-aws-hackaton-retrospective/'>📝 2025 AWS 해커톤 &lpar;GWNU X KNU&rpar; 회고</a></td></tr><tr><td>2025.11.25</td><td><a href='https://shinhyeong.github.io/java/static-methods-advantages-and-disadvantages/'>📝 Static 메소드의 장단점</a></td></tr><tr><td>2025.11.25</td><td><a href='https://shinhyeong.github.io/java/the-dangers-of-overusing-static-variables/'>📝 [Java] Static 변수를 남용하면 안되는 이유 &lpar;단점&rpar;</a></td></tr><tr><td>2025.11.16</td><td><a href='https://shinhyeong.github.io/java/why-main-method-is-static/'>📝 Java의 main 메소드는 왜 static 메소드일까?</a></td></tr><!-- BLOG-POST-LIST:END -->
   </table>
