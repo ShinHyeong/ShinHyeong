@@ -1,0 +1,30 @@
+name: Blog Post Widget
+on:
+  # 매일 00:00에 갱신
+  schedule: [{cron: "0 0 * * *"}]
+  # 수동 실행 가능
+  workflow_dispatch:
+  # main 브랜치에 push가 일어날 때도 실행
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 이미지를 저장하기 위해 쓰기 권한 필요
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 1. 토큰 설정 (기본 GITHUB_TOKEN 사용)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # 2. 저장할 이미지 파일 이름
+          filename: blog-post-widget.svg
+
+          # 3. 기본 메트릭(커밋 그래프 등)은 끄고 RSS만 켭니다
+          base: ""
+
+          # 4. RSS 플러그인 설정
+          plugin_rss: yes
+          plugin_rss_source: https://shinhyeong.github.io/feed.xml
+          plugin_rss_limit: 4 # 보여줄 글 개수
