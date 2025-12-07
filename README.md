@@ -6,9 +6,9 @@
 - 📝 I record and share my study notes for backend technologies, including Java, Spring Boot, and CS and problem-solving processes in my projects. [Visit my tech blog ↗](https://shinhyeong.github.io/)
 
 ## Latest Blog Posts
-<table width="100%">
-<!-- BLOG-POST-LIST:START --><tr><td><a href='https://shinhyeong.github.io/aws-saa/aws-saa-classic-architecture/'><b>Chapter1. Classic Architecture</b></a><br/>2025.12.02</td></tr><tr><td><a href='https://shinhyeong.github.io/retrospective/2025-aws-hackaton-retrospective/'><b>2025 AWS 해커톤 &lpar;GWNU X KNU&rpar; 회고</b></a><br/>2025.11.29</td></tr><tr><td><a href='https://shinhyeong.github.io/java/static-methods-advantages-and-disadvantages/'><b>Static 메소드의 장단점</b></a><br/>2025.11.25</td></tr><tr><td><a href='https://shinhyeong.github.io/java/the-dangers-of-overusing-static-variables/'><b>[Java] Static 변수를 남용하면 안되는 이유 &lpar;단점&rpar;</b></a><br/>2025.11.25</td></tr><tr><td><a href='https://shinhyeong.github.io/java/why-main-method-is-static/'><b>Java의 main 메소드는 왜 static 메소드일까?</b></a><br/>2025.11.16</td></tr><!-- BLOG-POST-LIST:END -->
-</table>
+<a href="https://shinhyeong.github.io/">
+  <img src="https://github.com/ShinHyeong/ShinHyeong/blob/main/blog-post-widget.svg" alt="Latest Blog Posts">
+</a>
 
 ## Certification
 - 📊 Advanced Data Analytics Semi-Professional(ADsP) [KOREA Data Agency] (2021.09.24)
