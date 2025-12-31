@@ -15,6 +15,7 @@
   </table>
   
 ## Certification
+- 🏗️ AWS Certified Solutions Architect - Associate [AWS] (2025.12.31)
 - 📊 Advanced Data Analytics Semi-Professional(ADsP) [KOREA Data Agency] (2021.09.24)
 
 ## Awards and Honors
